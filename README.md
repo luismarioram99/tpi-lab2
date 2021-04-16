@@ -1,7 +1,7 @@
 # Laboratorio 2
 
-- José Carlos Ramírez Peralta
-- Luis Mario Ramírez Peralta
+- José Carlos Ramírez Peralta RP18010
+- Luis Mario Ramírez Peralta RP18011
 
 ## Libreria
 
